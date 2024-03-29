@@ -11,23 +11,23 @@ Parameters:
   ProjectName:
     Type: String
     Description: Project Name
-    Default: snyk-sentinelone
+    Default: xxxxxx
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
-    Default: snyk-sentinelone.awsworkshop.io
+    Default: xxxxxx.awsworkshop.io
   CloudFrontDistroId:
     Type: String
-    Description: CloudFront distribution ID 
-    Default: E129K8O9UGD45B
+    Description: CloudFront distribution ID
+    Default: XXX
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-with-snyk-sentinelone
+    Default: aws-modernization-with-xxxxxx
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-with-snyk-sentinelone.gitsnyk-sentinelone
+    Default: https://github.com/aws-samples/aws-modernization-with-xxxxxx
   GitHubOwner:
     Type: String
     Description: GitHub owner name
@@ -219,4 +219,4 @@ Resources:
 
 Outputs:
   PipelineUrl:
-    Value: !Sub https://console.aws.amazon.com/codepipeline/home?region=${AWS::Region}#/view/${Pipeline}      
+    Value: !Sub https://console.aws.amazon.com/codepipeline/home?region=${AWS::Region}#/view/${Pipeline}  
