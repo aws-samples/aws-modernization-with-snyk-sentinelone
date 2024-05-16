@@ -13,11 +13,11 @@ weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 
 This paragraph block can be used to explain how to setup an AWS account. Example content guidance can be found at the bottom of the page.
 
-{{% notice info %}}
-<p style='text-align: left;'>
+
+
 **REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
+
+
 
 ### Next Section Heading <!-- MODIFY THIS HEADING -->
 This paragraph block can optionally be utilized to lead into the next section of the workshop.
@@ -25,9 +25,9 @@ This paragraph block can optionally be utilized to lead into the next section of
 #### Example Content Guidance
 # Setting up your AWS account <!-- MODIFY THIS HEADING -->
 
-If you don’t already have an AWS account with Administrator access: create one now by clicking <a href="https://aws.amazon.com/getting-started/">here</a>.
+If you don’t already have an AWS account with Administrator access: create one now by clicking [here](https://aws.amazon.com/getting-started/).
 
-Once you have an AWS account, ensure you are following the remaining workshop steps as an IAM user with administrator access to the AWS account: <a href="https://console.aws.amazon.com/iam/home?#/users$new">Create a new IAM user to use for the workshop</a>
+Once you have an AWS account, ensure you are following the remaining workshop steps as an IAM user with administrator access to the AWS account: [Create a new IAM user to use for the workshop](https://console.aws.amazon.com/iam/home?#/users$new)
 
 Enter the user details: create user
 
