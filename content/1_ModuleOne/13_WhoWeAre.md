@@ -15,5 +15,5 @@ This paragraph block should be a brief introduction to the partner, their histor
 </p>
 {{% /notice %}}
 
-### Next Section Heading <!-- MODIFY THIS HEADING -->
+### Next Section Heading
 This paragraph block can optionally be utilized to lead into the next section of the workshop.
