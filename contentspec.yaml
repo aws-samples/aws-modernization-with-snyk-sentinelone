@@ -61,7 +61,7 @@ awsAccountConfig:
 
   # If set to `true`, an EC2 KeyPair called `ws-default-keypair` will be created in the AWS Account and the private key material
   # will be made available to the Participant via the Participant APIs and Participant interface.
-  ec2KeyPair: true/false (default false)
+  ec2KeyPair: false
 
   # Defines a set of accessible and deployable regions for events leveraging this content.
   regionConfiguration:
