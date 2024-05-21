@@ -4,10 +4,9 @@ chapter: true
 weight: 1
 ---
 
-# Application Modernization with AWS, Snyk, and SentinelOne
+# Application Modernization with AWS, Snyk, SentinelOne
 
 ![Snyk](/images/snyk-card.png)
-
 
 ### Welcome!
 
@@ -33,4 +32,3 @@ TODO: INSERT SENTINELONE INTRO
 
 ## Expected Duration
 This workshop is broken up into three 30 minute modules. 
-
