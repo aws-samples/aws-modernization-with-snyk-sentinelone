@@ -11,6 +11,8 @@ weight: 1
 
 ### Welcome!
 
+This is a test
+
 In this workshop you will learn how to scan containerized applications on Amazon EKS using the Snyk Container CLI tool and how to detect threats with SentinelOne. We will learn about using Snyk and SentinelOne to scan a container for vulnerabilities, detect threats on the container, and harden the container with Snyk remediation advice. 
 
 Containers enable you to separate your applications from your infrastructure so you can deliver software quickly. With containers, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of standardized methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
